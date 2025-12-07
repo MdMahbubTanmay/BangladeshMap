@@ -5,7 +5,7 @@ It’s a very simple C project that prints a map of **Bangladesh** in the consol
 
 ---
 # Preview:
-[![Preview_Image](https://i.postimg.cc/DwXnSd9r/Screenshot-2025-12-07-195942.png)](https://postimg.cc/qN49YnMq)
+[![Screenshot-2025-12-07-195942.png](https://i.postimg.cc/DwXnSd9r/Screenshot-2025-12-07-195942.png)](https://postimg.cc/qN49YnMq)
 ---
 
 
@@ -14,3 +14,6 @@ It’s a very simple C project that prints a map of **Bangladesh** in the consol
 - CMake (version 3.10 or newer)  
 
 ---
+# 🥹🫶Applogy
+**The correct Bangladesh Map was-is-willBe InShaaAllah**
+![](https://i.ytimg.com/vi/D2wRP9b4fWw/maxresdefault.jpg)
