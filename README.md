@@ -14,6 +14,6 @@ It’s a very simple C project that prints a map of **Bangladesh** in the consol
 - CMake (version 3.10 or newer)  
 
 ---
-# 🥹🫶Applogy
+# 🥹🫶Apology
 **The correct Bangladesh Map was-is-willBe InShaaAllah**
 ![](https://i.ytimg.com/vi/D2wRP9b4fWw/maxresdefault.jpg)
